@@ -10,7 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-
+- title: Categories
+  url: "categories/"
 
 # Footer Menu
 footermenu:
