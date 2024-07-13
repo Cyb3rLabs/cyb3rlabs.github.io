@@ -17,7 +17,7 @@ html {
   }
   
 body {
-    background:#4b4848;
+    background:#111111;
     font-size:17px;
     transition: all 200ms linear;
     font-family: "PT Sans",sans-serif;
@@ -111,7 +111,7 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
     position:fixed;
-    background:#fff;
+    background:#1a1919;
 }
 .social-icon {
     display: inline-block !important;
@@ -187,7 +187,7 @@ small, .small {
 }
 
 .section-title span {
-    background-color: #fff;
+    background-color: #181616;
     position: relative;
     z-index: 2;
     display: inline-block;
@@ -590,7 +590,7 @@ span.navigation:before {
 }
 .pagination {
     display: inline-block;
-    background: #fff;
+    background: #0f0f0f;
     z-index: 1;
     position: relative;
     padding: 0 20px;
