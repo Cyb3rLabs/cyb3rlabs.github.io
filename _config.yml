@@ -1,11 +1,11 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Cyber Labs"
+email: cyb3rlabs@outlook.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Cyb3rLabs
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -25,27 +25,20 @@ ganalytics: UA-113961478-1
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: cyb3rlabs
+    display_name: CyberLabs
     avatar: 'assets/images/sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John
-    avatar: 'assets/images/john.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    email: cyb3rlabs@outlook.com
+    web: https://www.cyb3rlabs.com
+    twitter: https://twitter.com/cyb3rlabs
+    description: "Main Editor"
+  
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/cyb3rlabs/
+  facebook: https://www.facebook.com/cyb3rlabs
+  twitter: https://twitter.com/cyb3rlabs
 
 # Plugins
 plugins: 
